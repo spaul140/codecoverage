@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/Trade.java
+END
+AddressBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/AddressBook.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/Customer.java
+END
+County.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/County.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/Address.java
+END
+CustomerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/CustomerBuilder.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/City.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/Order.java
+END
+AddressBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/main/java/com/dbc/domain/AddressBuilder.java
+END

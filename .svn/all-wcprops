@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles/build.xml
+END

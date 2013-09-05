@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/src/main/resources
+END
+spring-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/src/main/resources/spring-context.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/57/trunk/examples/testing/test-doubles/src/main/resources/log4j.xml
+END

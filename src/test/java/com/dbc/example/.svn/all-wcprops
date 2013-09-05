@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles/src/test/java/com/dbc/example
+END
+FixtureHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/58/trunk/examples/testing/test-doubles/src/test/java/com/dbc/example/FixtureHelper.java
+END
+MockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles/src/test/java/com/dbc/example/MockTest.java
+END
+DummyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/59/trunk/examples/testing/test-doubles/src/test/java/com/dbc/example/DummyTest.java
+END
+StubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/62/trunk/examples/testing/test-doubles/src/test/java/com/dbc/example/StubTest.java
+END
